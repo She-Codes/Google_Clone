@@ -1,0 +1,1 @@
+This is my Thinkful Google Clone project.
